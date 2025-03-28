@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Word adventure game thing", "Word adventure game thing\Word adventure game thing.pyproj", "{14C93FD7-DCA8-4959-8782-CE7BA5065458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C93FD7-DCA8-4959-8782-CE7BA5065458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C93FD7-DCA8-4959-8782-CE7BA5065458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {465A910E-CF96-4300-A6F6-9FB3B8024179}
+	EndGlobalSection
+EndGlobal
