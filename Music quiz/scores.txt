@@ -1,0 +1,7 @@
+Rose score = 76
+this is the end of the file writing for debuggingRose score = 275
+Rose score = 275
+Rose score = 300
+Rose score = 51
+Rose score = 31
+Rose score = 3
